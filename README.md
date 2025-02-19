@@ -1,2 +1,6 @@
 # FrontPorchCounseling
-This is the repo for Front Porch Counseling. The area I will keep all of my code. 
+This is the repo for Front Porch Counseling.
+
+All your counseling needs with Seana Petri. Board Certified Psychologist with a specialization in Drug and Alcohol Counseling.
+
+Website & Logo created by Teylor Chapman. 
